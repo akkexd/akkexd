@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aung Khant Ko
 - 👀 I’m interested in Robotics and Artificial Intelligence
 - 🌱 I’m currently learning computer science at UoPeople
-- 💞️ I’m looking to collobrate on research work
+- 💞️ I’m looking to collobrate on research work in embedded system
 - 📫 How to reach me aungkko.edu@gmail.com
 
 <!---
