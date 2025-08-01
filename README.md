@@ -13,7 +13,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&weight=500&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=🤖+ROS2+%7C+SLAM+%7C+Path+Planning+%7C+CV+%7C+RL)](https://github.com/)
 
-<img align="center" width="100%" height="220px" src="https://github-readme-stats.vercel.app/api?username=akkexd&count_private=true&show_icons=true&theme=dracula&hide=contribs,hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akkexd/akkexd/output/github-snake-dark.svg#gh-dark-mode-only" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akkexd/akkexd/output/github-snake-rainbow.svg" />
+  <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/akkexd/akkexd/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -44,13 +48,6 @@
 
 ---
 
-## 📈 GitHub Insights
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akkexd/akkexd/output/github-snake-dark.svg#gh-dark-mode-only" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akkexd/akkexd/output/github-snake-rainbow.svg" />
-  <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/akkexd/akkexd/output/github-snake.svg" />
-</picture>
 
 ---
 
