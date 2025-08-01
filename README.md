@@ -66,8 +66,8 @@
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/aungkhantko"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aungkhantko@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aungkko"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aungkkko.edu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://unfoldedstories.org"><img src="https://img.shields.io/badge/UnfoldedStories.org-Site-orange?style=flat-square&logo=firefox-browser&logoColor=white" /></a>
 </p>
 
