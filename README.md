@@ -46,12 +46,11 @@
 
 ## 📈 GitHub Insights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" height="150"/>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akkexd/akkexd/output/github-snake-dark.svg#gh-dark-mode-only" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akkexd/akkexd/output/github-snake-rainbow.svg" />
+  <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/akkexd/akkexd/output/github-snake.svg" />
+</picture>
 
 ---
 
