@@ -7,7 +7,7 @@
 <h3>👨‍💻 Aspiring Robotics Software Engineer | Researcher</h3>
 <p align="center">
     Building toward a career in robotics and AI with a focus on<br>
-    <strong>ROS2 navigation, SLAM, computer vision, reinforcement learning, and ethical autonomous systems</strong>.<br>
+    <strong>ROS2 navigation, SLAM, computer vision, reinforcement learning</strong>.<br>
 </p>
 
 
