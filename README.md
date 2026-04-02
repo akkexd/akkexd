@@ -53,10 +53,9 @@
 
 ## 🧠 Current Projects & Goals
 
-- 🤖 Building a ROS2-powered mobile robot with SLAM & Navigation  
-- 🎯 Applying Reinforcement Learning in real-world robotics control  
-- 🌍 Advocating for responsible AI & robotics policy  
-- 💻 Publishing open-source robotics frameworks for education  
+- 🤖 Building a ROS2 Jazzy-based autonomous mecanum wheel mobile robot running Nav2 
+- 🎯 Applying DRL for adaptive motion planning 
+- 💻 Publication on Practical Navigation of a Mecanum Wheel robot on High-Friction Carpet  
 
 ---
 
